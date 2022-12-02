@@ -20,7 +20,7 @@ vi fixme1.py
 <details>
 <summary>Hint?</summary>
 <br>
-You should encounter a `IndentationError` on **line 20**, to begin fixing this issue
+You should encounter a `IndentationError` on line 20, to begin fixing this issue
 
 ```python
 flag = str_xor(flag_enc, 'enkidu')
