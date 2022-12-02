@@ -20,7 +20,7 @@ vi fixme1.py
 <details>
 <summary>Hint?</summary>
 <br>
-With the python file opened, navigate to **line 22** and fix the incorrect Syntax. The conditional operator `if` in Python requires two equal signs instead of one.
+With the python file opened, navigate to line 22 and fix the incorrect Syntax. The conditional operator `if` in Python requires two equal signs instead of one.
 
 ```python
 if flag == "":
