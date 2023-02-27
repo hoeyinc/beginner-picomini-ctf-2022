@@ -2,7 +2,7 @@
 
 ## Objectives
 
-> -Solving an uncommon visual code in crytography
+> Solving an uncommon visual code in crytography
 
 1. Begin by downloading and opening the .png image from the challenge
 2. To decipher the hidden flag in the image, remember the format of picoCTF flags is always "picoCTF{XXXXXXXX}"
